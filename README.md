@@ -1,5 +1,7 @@
 # LW4-Improving-CNN-Performance
 
+Google Colab Link: https://colab.research.google.com/drive/1vZwsPt-NsgdPaSdPkL-3lAMWLupQaDXY?usp=drive_link
+
 A. Model Evaluation Analysis
 
 1. What were the weakest-performing classes based on the confusion matrix?
