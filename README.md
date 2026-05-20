@@ -2,6 +2,7 @@
 
 Google Colab Link: https://colab.research.google.com/drive/1vZwsPt-NsgdPaSdPkL-3lAMWLupQaDXY?usp=drive_link
 
+Model Link: https://drive.google.com/drive/folders/1dtUobXWtuUS6aPkx_Qf7FwRxE9OIXcuS?usp=sharing
 A. Model Evaluation Analysis
 
 1. What were the weakest-performing classes based on the confusion matrix?
